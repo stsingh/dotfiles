@@ -1,0 +1,16 @@
+# ~/.config/starship.toml
+
+[package]
+disabled = true
+
+[golang]
+disabled = true
+
+[python]
+disabled = true
+
+[rust]
+disabled = true
+
+[gcloud]
+disabled = true
