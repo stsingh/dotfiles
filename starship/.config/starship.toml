@@ -6,9 +6,6 @@ disabled = true
 [golang]
 disabled = true
 
-[python]
-disabled = true
-
 [rust]
 disabled = true
 
